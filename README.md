@@ -1,1 +1,1 @@
-# foto
+# Reconocimiento Óptico de Caracteres
